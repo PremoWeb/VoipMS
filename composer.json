@@ -1,0 +1,13 @@
+{
+    "name": "premoweb/voipms",
+    "description": "Interact with the Voip.ms API with native PHP.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nick Maietta",
+            "email": "nick@premoweb.com"
+        }
+    ],
+    "require": {}
+}
