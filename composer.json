@@ -9,5 +9,12 @@
             "email": "nick@premoweb.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "dev",
+	"autoload": {
+		"files": ["src/index.php"]
+	},
+	"config": {
+		"vendor-dir": "vendor/"
+	}
 }
